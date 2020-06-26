@@ -97,6 +97,15 @@ class NavMenu extends React.Component {
             </>
             ):(
               <>
+              {/* <li className="nav-item">
+              <NavLink
+                style={{ color: "black" }}
+                className="nav-link"
+                to="/sell"
+              >
+                Sell
+              </NavLink>
+            </li> */}
             <li className="nav-item">
               <NavLink
                 style={{ color: "black" }}
